@@ -79,4 +79,9 @@ export const CriarText =  styled.p`
     line-height: 19px;
 
     color: #23DD7A;
+
+    a{
+        color: #23DD7A;
+        text-decoration: none;
+    }
 `
